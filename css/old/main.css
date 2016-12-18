@@ -1,0 +1,321 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 nov. 2016, 21:37:01
+    Author     : Snow
+*/
+body
+{
+    padding-right:20px;
+}
+.larticle
+{
+    background-color: #f4f2f2;
+    border-style:solid;
+    border-width: 1px;
+    border-color:black;
+    padding-left:8px;
+    float:left;
+    display:inline-block;
+    position:relative;
+}
+.larticle1
+{
+    clear: both; float: right; display: block; position: relative;
+        background-color: #f4f2f2;
+    border-style:solid;
+    border-width: 1px;
+    border-color:black;
+    padding-left:8px;   
+}
+input
+{
+    border-style:solid;
+    border-width: 1px;
+    border-color:black;
+}
+.searchbutton
+{
+    padding-right:26px;
+    margin-left:-4px;
+    background:url(img/search.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:31px;
+    height:25px;
+}
+nav {
+
+    height: 20px;
+    border-radius: 5px;
+    width:500px;
+
+}
+
+nav ul {
+    list-style : none;
+    margin : -7px auto;
+    margin-left:-3%;
+
+}
+body
+{
+    font-family: 'Source Sans Pro' sans-serif;
+    font-size:14px;
+    line-height:18px;color:#000;
+    background: url(img/background-image10.png) no-repeat 0 0;
+    background-position: -150px -300px;
+    padding-left:200px;
+    padding-top:50px;
+
+
+}
+#lebody
+{
+    padding: 15px;
+    padding-left:110px;
+    margin: 0 auto;
+    width: 928px;
+}
+.page-header
+{
+    width:885px;
+}
+.lecorps
+{
+    padding: 15px;
+    margin: 15px;
+
+}
+.navigation
+{
+    margin-left:-50px;
+    margin-top:-5px;
+    width: 953px;
+    height:41px;
+
+
+}
+ul
+{
+    list-style-type:none;
+    margin:30px;
+    padding:-8px;
+}
+ul li
+{
+    display: inline-block;
+}
+ul li a
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    margin: 0 20px 0 12px;
+}
+a:hover 
+{
+    color: white;
+    text-decoration: none;
+}
+.larticle
+{
+    margin-left: -15px;
+    margin-bottom:20px;
+    width: 51.3%;   
+
+
+}
+.larticle1
+{
+    margin-right: 200px;
+    margin-bottom:20px;
+    width: 20.3%;   
+
+
+}
+h2,h3,h4
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.firstimage
+{
+    border-style:solid;
+    border-width: 3px;
+    border-color:black;
+    margin-top:-50px;
+    margin-left:180px;
+}
+.viewimage
+{
+    border-style:solid;
+    border-width: 3px;
+    border-color:black;
+    margin-left:180px;
+
+}
+
+.form-actions
+{
+    width:885px;
+
+}
+.top
+{
+
+    height:30px;
+    background-color:#111111 ;
+    padding:10px;
+    margin-left:5px;
+    border-style:solid;
+    border-width: 1px;
+    border-color:black;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    font-size:20px;
+}
+.top:hover
+{
+    background-color:#ff6700;
+}
+.alarticle font
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.topheader
+{
+    width:957px;
+    margin:-15px;
+    height: 220px;
+}
+.lelogo
+{
+    padding-left:380px;
+}
+.alert
+{
+    width:872px;
+}
+.avantarticle
+{
+
+    margin-top: -10px;
+    width: 101.2%; 
+    background-color:#111111;
+    margin-left:-8px;
+
+
+}
+.avantarticle h3
+{
+    margin-left:8px;
+}
+.apreslarticle i
+{
+    margin-left:8px;    
+}
+.apreslarticle
+{
+    margin-left: -8px;
+    width: 101.2%; 
+    background-color:#111111;
+    color:white;
+}
+.avantarticle h3 a , .avantarticle h2
+{
+    color:white;
+
+}
+.avatar
+{
+    
+    width:20%;
+}
+.thumb1 { 
+width: 100px;
+height: 100px;
+}
+
+.infos
+{
+    margin-top:-163px;
+    margin-left:150px;
+    
+    
+}
+.alarticle
+{
+    padding-top:50px;
+}
+.pagination
+{
+    margin-left:350px;
+}
+.pagination ul li a {
+    background: #181818;
+    margin-left:-20px;
+
+}
+.pagination ul li a:hover {
+    background: #000;
+}
+.mainfooter
+{
+    background-color:#111111;
+    color:white;
+    height:200px;
+    width:1380px;
+    margin-left:-211px;
+    margin-bottom:-55px;
+}
+footer .span11 img
+{
+    padding-left:673px;
+}
+footer .span11 p
+{
+    padding-left:655px;
+}
+footer .span11 h5
+{
+    padding-left:630px;
+}
+.letexte
+{
+    width:600px;
+    text-align: justify;
+}
+.mybutton
+{
+    padding-bottom:50px;
+    padding-top:5px
+}
+
+.imagecrop
+{
+            width: 80px;
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+.comms
+{
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+.aucom
+{
+    margin-left:10%;
+    padding-top:1%;
+}
